@@ -1,4 +1,4 @@
-# Next.js Project
+# Script to work with website api to data scrape and export data into spreadsheet.
 
 This is a modern web application built with Next.js, TypeScript, and Tailwind CSS.
 
